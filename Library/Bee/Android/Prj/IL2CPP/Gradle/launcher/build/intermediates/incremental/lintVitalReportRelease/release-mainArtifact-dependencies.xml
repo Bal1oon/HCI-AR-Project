@@ -1,0 +1,25 @@
+<dependencies>
+  <compile
+      roots="/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release">
+    <dependency
+        name="/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+  </compile>
+  <package
+      roots="/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release,__local_aars__:/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar,com.google.ar:core:1.22.0@aar,:VuforiaEngine:@aar,:unityandroidpermissions:@aar,/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary:xrmanifest.androidlib::release">
+    <dependency
+        name="/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary::release"
+        simpleName="Gradle:unityLibrary"/>
+    <dependency
+        name="__local_aars__:/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/libs/unity-classes.jar:unspecified@jar"/>
+    <dependency
+        name="com.google.ar:core:1.22.0@aar"/>
+    <dependency
+        name=":VuforiaEngine:@aar"/>
+    <dependency
+        name=":unityandroidpermissions:@aar"/>
+    <dependency
+        name="/Users/wooseok/HCIProject/Library/Bee/Android/Prj/IL2CPP/Gradle@@:unityLibrary:xrmanifest.androidlib::release"
+        simpleName="Gradle.unityLibrary:xrmanifest.androidlib"/>
+  </package>
+</dependencies>
